@@ -13,8 +13,8 @@
 </div>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/VishShaji/Icon/blob/main/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/VishShaji/Icon/blob/main/discord.svg](https://github.com/VishShaji/Icon/blob/main/discord.svg)" width="52" height="40"  alt="discord logo"  /> 
+  <img src="https://github.com/VishShaji/Icon/blob/main/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://github.com/VishShaji/Icon/blob/main/discord.svg" width="52" height="40"  alt="discord logo"  /> 
 
 ###
 
