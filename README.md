@@ -22,10 +22,10 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Civil Engineering bringing my technical and analytical skills up.<br>🎯 Goals: Be proficient at NLP<br><p>       Dive into AWS data engineering.</p>
+<p align="left">📚 I'm currently learning Civil Engineering bringing my technical and analytical skills up.<br>🎯 Goals: Be proficient at NLP & Dive into AWS data engineering.</p>
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I am proficient at</h2>
 
 ###
 
@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql logo"  />
   <img width="12" />
-  <img src="https://github.com/VishShaji/Icon/blob/main/power-bi.png" height="40" alt="Power BI logo"  />
+  <img src="https://github.com/VishShaji/Icon/blob/main/power-bi.svg" height="40" alt="Power BI logo"  />
   <img width="12" />
   <img src="https://github.com/VishShaji/Icon/blob/main/excel.svg" height="40" alt="Excel logo"  />
   <img width="12" />
