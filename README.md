@@ -38,13 +38,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="40" alt="Power BI logo"  />
+  <img src="https://github.com/VishShaji/Icon/blob/main/power-bi.png" height="40" alt="Power BI logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/VishShaji/Icon/blob/main/excel.svg" height="40" alt="Excel logo"  />
+  <img src="https://github.com/VishShaji/Icon/blob/main/excel.svg" height="40" alt="Excel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/VishShaji/Icon/blob/main/scikit-learn.svg" height="40" alt="Scikit-Learn logo"  />
+  <img src="https://github.com/VishShaji/Icon/blob/main/scikit-learn.svg" height="40" alt="Scikit-Learn logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
