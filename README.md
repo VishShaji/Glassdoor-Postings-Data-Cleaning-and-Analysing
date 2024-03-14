@@ -1,4 +1,4 @@
-## Glassdoor Postings | Data Cleaning and Analysing
+## <p> Glassdoor Postings | Data Cleaning and Analysing </p>
 
 
 This is an analysis of Glassdoor Job postings in the United States of America. The data was scrapped from glassdoor's website and is sourced from Kaggle.
@@ -29,7 +29,7 @@ This is an analysis of Glassdoor Job postings in the United States of America. T
 
 
 
-## Installation
+## Usage
 
 The provided xlxb File can be opened on any SpreadSheet applications like Microsoft Excel, Google Sheets, the same way a regular xlsx file is opened.
     
