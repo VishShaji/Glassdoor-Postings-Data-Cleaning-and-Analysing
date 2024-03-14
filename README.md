@@ -1,4 +1,4 @@
-## <p> Glassdoor Postings | Data Cleaning and Analysing </p>
+## Glassdoor Postings | Data Cleaning and Analysing
 
 
 This is an analysis of Glassdoor Job postings in the United States of America. The data was scrapped from glassdoor's website and is sourced from Kaggle.
