@@ -42,47 +42,47 @@ The provided xlxb File can be opened on any SpreadSheet applications like Micros
 
 ## Content
 
-Job Title: Title of the job posting
+- Job Title: Title of the job posting
 
-Job: Simplified job title
+- Job: Simplified job title
 
-Role: If job type is Senior or Non-Senior
+- Role: If job type is Senior or Non-Senior
 
-Salary Estimation: Salary range for that particular job
+- Salary Estimation: Salary range for that particular job
 
-Min_Salary: Maximum Salary of that job
+- Min_Salary: Maximum Salary of that job
 
-Max_Salary: Minimum Salary of that job
+- Max_Salary: Minimum Salary of that job
 
-Avg_Salary: Average Salary of that job
+- Avg_Salary: Average Salary of that job
 
-Job Description: This contains the full description of that job
+- Job Description: This contains the full description of that job
 
-Rating: Rating of that post
+- Rating: Rating of that post
 
-Company: Name of company
+- Company: Name of company
 
-Location: Location of the company
+- Location: Location of the company
 
-Job_State: State where the applicant will work
+- Job_State: State where the applicant will work
 
-Headquarter: Location of the headquater
+- Headquarter: Location of the headquater
 
-HQ_State: State of the headquarter
+- HQ_State: State of the headquarter
 
-Same_State?: Same state as headquarter or not(Boolean)
+- Same_State?: Same state as headquarter or not(Boolean)
 
-Size: Total employee in that company
+- Size: Total employee in that company
 
-Type of ownership: Describes the company type i.e non-profit/public/private farm etc.
+- Type of ownership: Describes the company type i.e non-profit/public/private farm etc.
 
-Industry, Sector: Field applicant will work in
+- Industry, Sector: Field applicant will work in
 
-Revenue: Total revenue of the company
+- Revenue: Total revenue of the company
 
-company_age: Age of company
+- company_age: Age of company
 
-python,excel,hadoop,spark,aws,tableau,big_data: Some most appeared skills in boolean columns form (One hot encoded)
+- python,excel,hadoop,spark,aws,tableau,big_data: Some most appeared skills in boolean columns form (One hot encoded)
 ## Screenshots
 
 ![App Screenshot](https://github.com/VishShaji/Glassdoor-Postings-Data-Cleaning-and-Analysing/blob/main/Assets/Excel1.png)
