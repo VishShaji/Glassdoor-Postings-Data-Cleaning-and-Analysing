@@ -1,7 +1,9 @@
 ## Glassdoor Postings | Data Cleaning and Analysing
 
 
-This is an analysis of Glassdoor Job postings in the United States of America. The data was scrapped from Glassdoor's website and is sourced from Kaggle. The Data has been cleaned and wrangled. The new cleaned data set is also included on which analysis has been done. The insights are visualized using Excel's Pivot Table feature and VBA to make the end users' tasks easier.
+This is an analysis of Glassdoor Job postings in the United States of America. The data was scrapped from Glassdoor's website and is sourced from Kaggle.
+
+The Data has been cleaned and wrangled. The new cleaned data set is also included on which analysis has been done. The insights are visualized using Excel's Pivot Table feature and VBA to make the end users' tasks easier.
 
 
 ## Authors
